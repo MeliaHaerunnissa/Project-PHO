@@ -1,2 +1,2 @@
 # Project-PHO
-Pendaftaran Member Menggunakan bahasa pemrograman PHP
+Pendaftaran Member Menggunakan bahasa pemrograman php
